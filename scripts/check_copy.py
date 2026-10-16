@@ -30,7 +30,7 @@ WEAK_ENDINGS = [
     "get in touch for more", "let us know if you have any questions", "share your requirement",
 ]
 ACTION_WORDS = ["book", "call", "reply", "order", "buy", "sign up", "subscribe", "visit", "download", "message",
-                "whatsapp", "schedule", "register", "click", "send"]
+                "whatsapp", "schedule", "register", "click", "send", "show", "try", "start", "scan", "walk in", "pick"]
 DASHES = "‒–—―"
 
 

@@ -54,14 +54,25 @@ For Codex, clone into `~/.agents/skills/show-dont-tell` instead. Then ask: "Use 
 
 | File | What it's for |
 | --- | --- |
-| `SKILL.md` | The skill: the 6 rules, the steps and special situations |
-| `PASTE-INTO-CHATGPT-OR-CLAUDE.md` | The no install version: one prompt to copy |
-| `templates/` | 6 fill in templates: homepage, sales email, proposal opener, DM reply, Google profile, pitch |
-| `references/EXPLAINING-PHRASES.md` | 18 phrases that explain instead of show, and what to write instead |
-| `references/PROOF-RULES.md` | What counts as proof, what never to do, and a 2 week plan to collect proof |
-| `references/EXAMPLES.md` | 6 full before and after rewrites |
+| `SKILL.md` | The skill: the 6 rules, an 8 step method, a self check and 9 special situations |
+| `PASTE-INTO-CHATGPT-OR-CLAUDE.md` | The no install version: one full prompt to copy, plus follow up commands |
+| `templates/HOMEPAGE.md` | A 10 part homepage structure, line by line guidance and common mistakes |
+| `templates/SALES-EMAIL.md` | Cold, warm and follow up emails, subject lines that work, follow up rhythm |
+| `templates/PROPOSAL-OPENER.md` | A proposal page 1 that sells, with pricing and a dated next step |
+| `templates/DM-REPLY.md` | WhatsApp and DM replies for "price?", "do you do X?", discounts, availability, plus quick replies to save |
+| `templates/GOOGLE-PROFILE.md` | Google Business description, photos, services, posts and review replies |
+| `templates/PITCH.md` | 5 second, 20 second and 60 second pitches, and bios |
+| `references/EXPLAINING-PHRASES.md` | 60+ phrases to cut, in 9 groups, with what to write instead |
+| `references/HEADLINE-FORMULAS.md` | 20 headline formulas with examples |
+| `references/BEFORE-AFTER.md` | The camera test, 5 ingredients, 4 shapes and examples for 7 industries |
+| `references/PROOF-RULES.md` | The 7 level proof ladder, what never to do, a 2 week plan and messages to collect reviews |
+| `references/NEXT-STEPS.md` | 30 next step lines for cold, warm, hot, local, follow up and proposals |
+| `references/INDUSTRY-PLAYBOOKS.md` | 16 industries: what customers really buy, best proof, before and after, next step |
+| `references/AUDIT-SCORECARD.md` | Score any text out of 30, and the 3 fastest fixes |
+| `references/TESTING.md` | 4 simple, fair ways to test the old version against the new one |
+| `references/EXAMPLES.md` | 12 full before and after rewrites with scores and why they work |
 | `scripts/check_copy.py` | An optional checker that flags explaining phrases, weak endings and missing proof |
-| `tests/` | 18 automatic tests, run on GitHub for every change |
+| `tests/` | Automatic tests, including every example, run on GitHub for every change |
 
 ## Check your text yourself (optional)
 

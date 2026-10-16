@@ -26,8 +26,8 @@ def examples():
 
 
 class Examples(unittest.TestCase):
-    def test_there_are_6_examples(self):
-        self.assertEqual(len(examples()), 6)
+    def test_there_are_12_examples(self):
+        self.assertEqual(len(examples()), 12)
 
     def test_every_after_passes(self):
         for name, _, after in examples():
